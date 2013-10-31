@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+# GWP specific setting
 DEBUG = TEMPLATE_DEBUG = False
 
 DEBUG_STATIC = False
